@@ -1,0 +1,14 @@
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\bin\Debug\net6.0\GestaoEscolar.exe
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\bin\Debug\net6.0\GestaoEscolar.deps.json
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\bin\Debug\net6.0\GestaoEscolar.runtimeconfig.json
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\bin\Debug\net6.0\GestaoEscolar.dll
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\bin\Debug\net6.0\GestaoEscolar.pdb
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\obj\Debug\net6.0\GestaoEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\obj\Debug\net6.0\GestaoEscolar.AssemblyInfoInputs.cache
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\obj\Debug\net6.0\GestaoEscolar.AssemblyInfo.cs
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\obj\Debug\net6.0\GestaoEscolar.csproj.CoreCompileInputs.cache
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\obj\Debug\net6.0\GestaoEscolar.dll
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\obj\Debug\net6.0\refint\GestaoEscolar.dll
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\obj\Debug\net6.0\GestaoEscolar.pdb
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\obj\Debug\net6.0\GestaoEscolar.genruntimeconfig.cache
+C:\Users\kamil\OneDrive\Estudo\Entra21\Programação orientada a objetos c#\Prática\Trabalho02_SitemaGestaoEscolar\GestaoEscolar\GestaoEscolar\obj\Debug\net6.0\ref\GestaoEscolar.dll
