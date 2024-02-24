@@ -1,6 +1,6 @@
-# Trabalho 02 - Sistema de Gestão Escolar
+Sistema de Gestão Escolar
 
-Crie um sistema de gestão escolar. Este sistema será responsável por gerenciar alunos, professores, disciplinas e turmas de uma escola.
+Sistema responsável por gerenciar alunos, professores, disciplinas e turmas de uma escola.
 
 <strong>Requisitos do sistema:</strong>
 1. Cadastro de Alunos:
@@ -28,7 +28,7 @@ Crie um sistema de gestão escolar. Este sistema será responsável por gerencia
    e. Exibir detalhes de um aluno, professor, disciplina ou turma específica
 
 <strong>Regras adicionais:</strong>
-1. Implemente classes separadas para alunos, professores, disciplinas e turmas;
-2. Utilize encapsulamento para proteger os atributos das classes;
-3. Implemente associação entre as classes (Agregação ou Composição);
-4. Implemente uma interface de linha de comando (Aplicação console) para interagir com o usuário.
+1. Implementar classes separadas para alunos, professores, disciplinas e turmas;
+2. Utilizar encapsulamento para proteger os atributos das classes;
+3. Implementar associação entre as classes (Agregação ou Composição);
+4. Implementar uma interface de linha de comando (Aplicação console) para interagir com o usuário.
